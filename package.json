@@ -1,0 +1,22 @@
+{
+  "name": "dev.bg-cypress",
+  "version": "1.0.0",
+  "description": "Materials for Dev.bg event - UI tests that matter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edamyanov/dev.bg-cypress.git"
+  },
+  "author": "Emanuil Damyanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edamyanov/dev.bg-cypress/issues"
+  },
+  "homepage": "https://github.com/edamyanov/dev.bg-cypress#readme",
+  "devDependencies": {
+    "cypress": "^8.3.0"
+  }
+}
