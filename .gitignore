@@ -1,0 +1,31 @@
+*.class
+*.log
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/project/
+project/target/
+project/boot/
+project/plugins/project/
+project/metals.sbt
+.cache-main
+.cache-tests
+
+# IntelliJ specific
+.iml
+.idea/*
+
+.bloop
+.metals
+
+node_modules/
+vagrant/.vagrant/
+
+# Mac files and directories
+.DS_Store
